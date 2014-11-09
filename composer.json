@@ -1,0 +1,5 @@
+{
+    "name": "friendsoft/radiobroadcasts",
+    "description": "A config collection of streaming radio stations and scheduled radio broadcasts, to be used for radio recording and analysing by any client.",
+    "require": {}
+}

@@ -1,0 +1,6 @@
+*.bak
+*.log
+.*.sw[op]
+.DS_Store
+.idea
+.vim*

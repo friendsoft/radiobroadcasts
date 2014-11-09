@@ -1,0 +1,29 @@
+# fr-music
+#
+# global list of music radio shows presented in french /
+# liste globale des émissions radio sur la musique, presentées en français
+#
+# plus des émissions et maintainers pour ce document sont bienvenués!
+# with growing entries, list might be split into fr-music-popular and fr-music-discovery
+#
+# **please see README.md for further infos on how to use those files and contribute**
+
+# {{{ (( Aligre FM ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                    tags                    url
+aligrefm    planetclaire        30  19  *   1-7 WED 2014    %1=0     60 "Planet Claire"         indie,rock,french       http://www.planet-claire.org/
+aligrefm    lusitania           00  18  *   *   SAT *       %1=0     60 "Lusitania"             lusophone,french        http://aligrefm.org/programmes/les-emissions/lusitania/
+aligrefm    juicytown           00  20  *   *   SAT *       %1=0     60 "Juicy Town"            electronic,french       http://aligrefm.org/programmes/les-emissions/juicy-town/
+# .................................................................................................................................................................................
+# http://aligrefm.org/programmes/les-emissions/
+# }}}
+# {{{  (( Radio Campus Lille ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                    tags                    url
+# .................................................................................................................................................................................
+rclille     musiqueauxpieds     00  15  *   *   WED *       %1=0     60 "Musique Aux Pieds"     jazz,contemp,avant      http://musiquesauxpieds.blogspot.fr/
+# .................................................................................................................................................................................
+# http://www.campuslille.com/index.php/programmes
+# }}}
+
+# vim: fdm=marker fdl=0 et ft=config

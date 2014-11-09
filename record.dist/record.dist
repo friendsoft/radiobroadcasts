@@ -1,0 +1,8 @@
+# Example list of radio broadcasts to record (by any client using this)
+# * station: short name, [a-z]+ only
+# * broadcast: short name, [a-z]+ only (with #comments that can be used custom notes like ratings, and used by clients e. g. for logging)
+
+# station   broadcast (comment via #)
+#aligrefm    planetclaire # XX
+
+# vim: fdm=marker fdl=0 et ft=config

@@ -1,0 +1,19 @@
+# en-words
+#
+# global list of word-focussed radio shows presented in English
+#
+# further broadcasts and maintainers for en-* radio files are most welcome
+# this list is to be splitted into several sublists with growing size:
+# en-words-science, en-words-politics etc.
+#
+# **please see README.md for further infos on how to use those files and contribute**
+
+# {{{  (( CKUT 90.3 FM ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                    tags                    url
+ckut        greymatters         00  01  *   *   FRI *       %1=0     60 "Grey Matters"          politics,essays,word    http://www.fortneranderson.com/html/greymatters.html
+# .................................................................................................................................................................................
+# http://ckut.ca/c/en/oldgrid (programm)
+# }}}
+
+# vim: fdm=marker fdl=0 et ft=config

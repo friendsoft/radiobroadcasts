@@ -1,0 +1,31 @@
+# en-music
+#
+# global list of music radio shows presented in English
+#
+# further broadcasts and maintainers for en-* radio files are most welcome
+# this list is to be splitted into several sublists with growing size:
+# en-music-popular, en-music-discovery etc.
+#
+# **please see README.md for further infos on how to use those files and contribute**
+
+# {{{  (( CKUT 90.3 FM ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                    tags                    url
+ckut        radia               00  17  *   *   WED *       %1=0     30 "Radia"                 feature,sound,places    http://www.radia.fm/
+ckut        rootsrockrebel      00  04  *   *   THU *       %1=0    120 "Roots Rock Rebel"      rocksteady,ska,soul     http://www.musicaloccupation.com/podcasts/roots-rock-rebel/
+ckut        offthehook          00  06  *   *   THU *       %1=0    120 "Off The Hook Radio"    hiphop                  http://offthehookradio.blogspot.de/
+ckut        venus               00  18  *   *   THU *       %1=0    120 "Venus"                 music,feminism,queer    http://venusradiockut.wordpress.com/
+ckut        jazzamuck           00  15  *   *   FRI *       %1=0    120 "Jazz Amuck"            jazz,freejazz,avant     http://jazzamuck.blogspot.de/
+ckut        skewingthewaves     00  05  *   *   SUN *       %1=0     60 "Skewing The Waves"     postrock,noise          http://skewingthewaves.wordpress.com/
+ckut        freekick            00  17  *   *   SUN *       %1=0    120 "The Freekick Radio Show" mixed,special,guests  http://freekick.ca/
+ckut        modularsystems      00  19  *   *   SUN *       %2=0     60 "Modular Systems"       electronic,techno,deep  http://traktion.com/radio-archives/
+ckut        futureclassic       00  19  *   *   SUN *       %2=1     60 "Future Classic Radio"  electronic,funk,dance   http://www.futureclassic.ca/
+ckut        newshit             00  21  *   *   MON *       %1=0    120 "New Shit"              mixed,music,ckut        http://music.ckut.ca/
+ckut        undergroundsounds   00  02  *   *   TUE *       %1=0    120 "Underground Sounds"    mixed,indie,canada      http://undergroundsoundsradio.tumblr.com/
+ckut        thesuitedelight     00  07  *   *   TUE *       %1=0     60 "The Suite Delight"     hiphop,oldschool,90s    http://www.thesuitedelight.com/
+# .................................................................................................................................................................................
+# http://ckut.ca/c/en/oldgrid (programm)
+# http://music.ckut.ca/ (music department)
+# }}}
+
+# vim: fdm=marker fdl=0 et ft=config

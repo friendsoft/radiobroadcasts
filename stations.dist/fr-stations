@@ -1,0 +1,10 @@
+# List of french speaking radio stations with name and direct stream address
+# **please see README.md for further infos on how to use those files and contribute**
+
+# station   name                        URL (comment via #)
+aligrefm    "Aligre FM"                 http://sv3.vestaradio.com:9468 # http://aligrefm.org/aligrefm.m3u?download
+finter      "France Inter"              http://mp3.live.tv-radio.com/franceinter/all/franceinterhautdebit.mp3 # http://www.tv-radio.com/station/france_inter_mp3/france_inter_mp3-128k.m3u
+fmusique    "France Musique"            http://mp3.live.tv-radio.com/francemusique/all/francemusiquehautdebit.mp3
+rclille     "Radio Campus Lille"        http://statslive.infomaniak.ch/playlist/radiocampuslille/radiocampuslille-128.mp3/playlist.m3u
+
+# vim: et ft=config

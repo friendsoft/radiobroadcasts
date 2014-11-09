@@ -1,0 +1,17 @@
+# List of german-speaking radio stations with name and direct stream address
+# **please see README.md for further infos on how to use those files and contribute**
+# see <http://wiki.ubuntuusers.de/Internetradio/Stationen> for many more stations
+
+# station   name                        URL (comment via #)
+bytefm      "ByteFM"                    http://streamingserver01.byte.fm:8000/ # http://www.byte.fm/stream/bytefm.m3u
+dkultur     "Deutschlandradio Kultur"   http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m # http://www.deutschlandradio.de/streaming/dkultur.m3u
+dlf         "Deutschlandfunk"           http://stream.dradio.de/7/249/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dlf_m # http://www.deutschlandradio.de/streaming/dlf.m3u
+figaro      "MDR Figaro"                http://c22033-l.i.core.cdn.streamfarm.net/22007mdrfigaro/live/3087mdr_figaro/live_de_128.mp3
+fm4         "FM4"                       http://mp3stream1.apasf.apa.at:8000/ # http://mp3stream1.apasf.apa.at:8000/listen.pls
+radioeins   "radioeins"                 http://www.radioeins.de/live.m3u
+rbbkultur   "rbb kulturradio"           http://kulturradio.de/live.m3u
+srf2        "Radio SRF 2 Kultur"        http://stream.srg-ssr.ch/drs2/mp3_128.m3u
+swr2        "SWR2"                      http://mp3-live.swr.de/swr2_m.m3u
+wdr3        "WDR 3"                     http://www.wdr.de/wdrlive/media/wdr3.m3u
+
+# vim: et ft=config
