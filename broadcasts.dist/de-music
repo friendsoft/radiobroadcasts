@@ -11,34 +11,66 @@
 
 # {{{ (( ByteFM ))
 # .................................................................................................................................................................................
-# station   broadcast           m   h   dom mon dow year    weeks   min name                    tags                    url
-bytefm      bttb                00  09  *   *   MON *       %4=2     60 "BTTB – Back To The Basics" electronic          http://www.vinylizer.net/
-bytefm      canteen             03  12  *   *   MON *       %1=0    117 "Canteen"               mixed                   http://byte.fm/sendung/canteen/
-bytefm      hellomellowfellow   00  22  *   *   MON *       %4=1    120 "Hello Mellow Fellow"   mellow                  http://byte.fm/sendung/hello-mellow-fellow/
-bytefm      keepitreal          00  22  *   *   MON *       %4=3     60 "Keep It Real"          special                 http://byte.fm/sendung/keep-it-real/
-bytefm      souleilsuite        00  23  *   *   MON *       %4=0     60 "Souleil Suite"         disco,soul,house        http://byte.fm/sendung/souleil-suite/
-bytefm      atmocity            00  23  *   *   MON *       %4=2     60 "Atmocity"              atmospheric             http://byte.fm/sendung/atmocity/
-bytefm      beatrepeat          00  22  *   *   TUE *       %1=0     60 "Beat Repeat"           hiphop                  http://byte.fm/sendung/beat-repeat/
-bytefm      lafranceenduo       00  13  *   *   WED *       %4=1     60 "La France en Duo"      french                  http://byte.fm/sendung/la-france-en-duo/
-bytefm      pharmacy            03  17  *   *   WED *       %2=1     57 "Pharmacy"              pop                     http://byte.fm/sendung/pharmacy/
-bytefm      anstoss             00  18  *   *   WED *       %2=0     60 "Anstoß"                pop,rock,mixed,deutsch  http://byte.fm/sendung/anstoss/
-bytefm      verstaerker         00  20  *   *   WED *       %2=1     60 "Verstärker"            indie                   http://byte.fm/sendung/verstaerker/
-bytefm      hiddentracks        00  22  *   *   WED *       %1=0     60 "Hidden Tracks"         special                 http://byte.fm/sendung/hidden-tracks/
-bytefm      bonusreferat        00  23  *   *   WED *       %1=0     60 "Bonus Referat"         special                 http://byte.fm/sendung/bonus-referat/
-bytefm      schliemannssoundbox 00  13  *   *   THU *       %4=1     60 "Schliemanns Soundbox"  special                 http://byte.fm/sendung/schliemanns-soundbox/
-bytefm      sundayservice       00  17  *   *   THU *       %1=0    120 "Sunday Service"        rock,pop,electronic     http://byte.fm/sendung/sunday-service/
-bytefm      karamba             00  20  *   *   THU *       %1=0     60 "Karamba"               indie                   http://byte.fm/sendung/karamba/
-bytefm      bttb                00  21  *   *   THU *       %1=0     60 "BTTB – Back To The Basics" electronic          http://www.vinylizer.net/
-bytefm      schnittstellen      00  22  *   *   THU *       %2=1     60 "Schnittstellen"        rock,jazz,electronic    http://byte.fm/sendung/schnittstellen/
-bytefm      kramladen           00  23  *   *   THU *       %2=1     60 "Kramladen"             rock,60s,70s,special    http://byte.fm/sendung/kramladen/
-bytefm      neuland             00  13  *   *   FRI *       %1=0    120 "Neuland"               mixed                   http://byte.fm/sendung/neuland/
-bytefm      champagnesupernova  00  18  *   *   FRI *       %2=1     60 "Champagne Supernova"   indie,uk,70s,80s        http://byte.fm/sendung/champagne-supernova/
-bytefm      regler              00  20  *   *   FRI *       %2=1     60 "Regler rauf, Regler runter" electronic,indie,pop,special http://byte.fm/sendung/regler-rauf-regler-runter/
-bytefm      intakt              00  21  *   *   FRI *       %2=1     60 "In Takt"               pop,electronic,indie    http://byte.fm/sendung/in-takt/
-bytefm      jittersbugs         00  12  *   *   SAT *       %2=1     60 "Jitters & Bugs"        jazz,art                http://byte.fm/sendung/jitters--bugs/
-bytefm      inbetweenears       00  13  *   *   SAT *       %1=0     60 "In Between Ears"       jazz,classic,special    http://byte.fm/sendung/in-between-ears/
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+bytefm      bttb                00  09  *   *   MON *       %4=2     60 "BTTB – Back To The Basics"         electronic                              http://www.vinylizer.net/
+bytefm      canteen             03  12  *   *   MON *       %1=0    117 "Canteen"                           mixed                                   http://byte.fm/sendung/canteen/
+bytefm      hellomellowfellow   00  22  *   *   MON *       %4=1    120 "Hello Mellow Fellow"               mellow                                  http://byte.fm/sendung/hello-mellow-fellow/
+bytefm      timetunnel          00  21  *   *   MON *       %1=0     60 "Time Tunnel"                       60s,70s,rock,pop,reggae,soul            http://byte.fm/sendung/time-tunnel/
+bytefm      keepitreal          00  22  *   *   MON *       %4=3     60 "Keep It Real"                      special                                 http://byte.fm/sendung/keep-it-real/
+bytefm      souleilsuite        00  23  *   *   MON *       %4=0     60 "Souleil Suite"                     disco,soul,house                        http://byte.fm/sendung/souleil-suite/
+bytefm      atmocity            00  23  *   *   MON *       %4=2     60 "Atmocity"                          atmospheric                             http://byte.fm/sendung/atmocity/
+bytefm      beatrepeat          00  22  *   *   TUE *       %1=0     60 "Beat Repeat"                       hiphop                                  http://byte.fm/sendung/beat-repeat/
+bytefm      einstueckkuchen     00  14  *   *   TUE *       %2=0     60 "Ein Stück Kuchen"                  cake                                    http://byte.fm/sendung/ein-stueck-kuchen/
+bytefm      onetrackpony        00  14  *   *   TUE *       %2=1     60 "One Track Pony"                    special,associations                    http://byte.fm/sendung/one-track-pony/
+bytefm      outofspectrum       00  17  *   *   TUE *       %1=0     60 "Out Of Spectrum"                   electronic,jazz                         http://byte.fm/sendung/out-of-spectrum/
+bytefm      diewelteinescheibe  00  20  *   *   TUE *       %1=0     60 "Die Welt ist eine Scheibe"         postrock,electronic,folk,dub            http://byte.fm/sendung/die-welt-ist-eine-scheibe/
+bytefm      popschutz           00  21  *   *   TUE *       %1=0     60 "Popschutz"                         pop,electronic                          http://byte.fm/sendung/popschutz/
+bytefm      memyselfandwhy      00  22  *   *   TUE *       %2=0     60 "Me Myself & Why"                   special                                 http://byte.fm/sendung/me-myself--why/
+bytefm      tonabnehmer         00  12  *   *   WED *       %4=2     60 "Tonabnehmer"                       guitar                                  http://byte.fm/sendung/tonabnehmer/
+bytefm      lafranceenduo       00  13  *   *   WED *       %4=1     60 "La France en Duo"                  french                                  http://byte.fm/sendung/la-france-en-duo/
+bytefm      inthroughtheoutdoor 00  13  *   *   WED *       %4=2     60 "In Through The Out Door"           60s,70s                                 http://byte.fm/sendung/in-through-the-out-door/
+bytefm      spagat              00  14  *   *   WED *       %4=2     60 "Spagat"                            krautrock,pop                           http://byte.fm/sendung/spagat/
+bytefm      pharmacy            03  17  *   *   WED *       %2=1     57 "Pharmacy"                          pop                                     http://byte.fm/sendung/pharmacy/
+bytefm      bricolagedeluxe     03  17  *   *   WED *       %4=2     57 "DJ Eastenders' Bricolage Deluxe"   world,crossover,remix                   http://byte.fm/sendung/dj-eastenders-bricolage-deluxe/
+bytefm      anstoss             00  18  *   *   WED *       %2=0     60 "Anstoß"                            newcomer,demos                          http://byte.fm/sendung/anstoss/
+bytefm      bullerbuebabylon    00  18  *   *   WED *       %2=1     60 "Von Bullerbü nach Babylon"         special                                 http://byte.fm/sendung/von-bullerbue-nach-babylon/
+bytefm      goldenglades        00  20  *   *   WED *       %2=0    120 "Golden Glades"                     special                                 http://byte.fm/sendung/golden-glades/
+bytefm      verstaerker         00  20  *   *   WED *       %2=1     60 "Verstärker"                        indie,funk,soul,hiphop,beats            http://byte.fm/sendung/verstaerker/
+bytefm      hiddentracks        00  22  *   *   WED *       %1=0     60 "Hidden Tracks"                     special                                 http://byte.fm/sendung/hidden-tracks/
+bytefm      bonusreferat        00  23  *   *   WED *       %1=0     60 "Bonus Referat"                     special                                 http://byte.fm/sendung/bonus-referat/
+bytefm      tiefenschaerfe      00  13  *   *   THU *       %2=0     60 "Tiefenschärfe"                     deephouse,electronic                    http://byte.fm/sendung/tiefenschaerfe/
+bytefm      schliemannssoundbox 00  13  *   *   THU *       %4=1     60 "Schliemanns Soundbox"              special                                 http://byte.fm/sendung/schliemanns-soundbox/
+bytefm      yesindeed           00  14  *   *   THU *       %2=0     60 "Yes, Indeed!"                      indie,indieallfacettes                  http://byte.fm/sendung/yes-indeed/
+bytefm      sundayservice       00  17  *   *   THU *       %1=0    120 "Sunday Service"                    rock,pop,electronic                     http://byte.fm/sendung/sunday-service/
+bytefm      karamba             00  20  *   *   THU *       %1=0     60 "Karamba"                           indie                                   http://byte.fm/sendung/karamba/
+bytefm      bttb                00  21  *   *   THU *       %1=0     60 "BTTB – Back To The Basics"         electronic                              http://www.vinylizer.net/
+bytefm      schnittstellen      00  22  *   *   THU *       %2=1     60 "Schnittstellen"                    rock,jazz,electronic                    http://byte.fm/sendung/schnittstellen/
+bytefm      kramladen           00  23  *   *   THU *       %2=1     60 "Kramladen"                         rock,60s,70s,special                    http://byte.fm/sendung/kramladen/
+bytefm      neuland             00  13  *   *   FRI *       %1=0    120 "Neuland"                           newreleases                             http://byte.fm/sendung/neuland/
+bytefm      champagnesupernova  00  18  *   *   FRI *       %2=1     60 "Champagne Supernova"               indie,uk,70s,80s                        http://byte.fm/sendung/champagne-supernova/
+bytefm      regler              00  20  *   *   FRI *       %2=1     60 "Regler rauf, Regler runter"        electronic,indie,pop,special            http://byte.fm/sendung/regler-rauf-regler-runter/
+bytefm      hertzflimmern       00  20  *   *   FRI *       %2=0     60 "Hertzflimmern"                     mellow,pop,electronic,folk              http://byte.fm/sendung/hertzflimmern/
+bytefm      dasendevomlied      00  21  *   *   FRI *       %2=0     60 "Das Ende vom Lied"                 indie,dub,hiphop,idm,folk,soul,jazz     http://byte.fm/sendung/das-ende-vom-lied/
+bytefm      intakt              00  21  *   *   FRI *       %2=1     60 "In Takt"                           pop,electronic,indie                    http://byte.fm/sendung/in-takt/
+bytefm      jittersbugs         00  12  *   *   SAT *       %2=1     60 "Jitters & Bugs"                    jazz,art                                http://byte.fm/sendung/jitters--bugs/
+bytefm      inbetweenears       00  13  *   *   SAT *       %1=0     60 "In Between Ears"                   jazz,classic,special                    http://byte.fm/sendung/in-between-ears/
+bytefm      disorder            00  18  *   *   SAT *       %4=2     60 "Disorder"                          postpunk,punk,garage,avantpop           http://byte.fm/sendung/disorder/
+bytefm      60minutes           00  19  *   *   SAT *       %1=0     60 "60minutes"                         newreleases,special                     http://byte.fm/sendung/60minutes/
+bytefm      bytefmklassik       00  12  *   *   SUN *       %2=0     60 "ByteFM Klassik"                    classic,pop,avant                       http://byte.fm/sendung/bytefm-klassik/
+bytefm      zimmer436           00  14  *   *   SUN *       %1=0     60 "Zimmer 436"                        mixed                                   http://byte.fm/sendung/zimmer-4-36/
+bytefm      dierundestunde      00  17  *   *   SUN *       %4=0     60 "Die runde Stunde"                  jazz,hiphop,soul,chanson                http://byte.fm/sendung/die-runde-stunde/
+bytefm      wasistmusik         00  19  *   *   SUN *       %1=0     60 "Was ist Musik"                     special                                 http://byte.fm/sendung/was-ist-musik/
 # .................................................................................................................................................................................
-# http://byte.fm/programm
+# http://byte.fm/programm/
+# }}}
+# {{{ (( mephisto 97.6 ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+mephisto976 test                *   *   *   *   *   *       %1=0    1   "Test"                              test                                    http://mephisto976.de/sendungen/
+#http://mephisto976.de/sendung/tonleiter und
+#http://mephisto976.de/sendung/m19
+# http://mephisto976.de/sendungen/
 # }}}
 
 # vim: fdm=marker fdl=0 et ft=config
