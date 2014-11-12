@@ -1,0 +1,18 @@
+{
+  "name": "radiobroadcasts",
+  "version": "0.0.1",
+  "description": "A config collection of streaming radio stations and scheduled radio broadcasts, to be used for radio recording and analysing by any client.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/friendsoft/radiobroadcasts.git"
+  },
+  "keywords": [
+    "stream",
+    "radio",
+    "broadcast"
+  ],
+  "bugs": {
+    "url": "https://github.com/friendsoft/radiobroadcasts/issues"
+  },
+  "homepage": "https://github.com/friendsoft/radiobroadcasts"
+}
