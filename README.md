@@ -42,6 +42,8 @@ ckut        "CKUT"                      http://stream.ckut.ca:8000/903fm-192-ste
 
 ### Broadcasts
 
+#### Overview
+
 All files in `broadcasts.dist/` must be textfiles following this pattern:
 
 ~~~~
@@ -49,23 +51,68 @@ All files in `broadcasts.dist/` must be textfiles following this pattern:
 #                               m   h   dom mon dow
 ~~~~
 
-with those conditions:
+You will find examples within the `broadcasts.dist` directory.
 
-* station: corresponding to short names used in `stations.dist`
-* broadcast: short name, [a-z]+ only (alphabetical, lowercase), each may occur
+See next sections for details on each column.
+
+#### station
+
+* corresponding to short names used in `stations.dist`
+
+#### broadcast
+
+* short name, [a-z]+ only (alphabetical, lowercase), each may occur
   several times (for multiple schedules that cannot be covered by one cron
   expression)
-* cron: see <http://en.wikipedia.org/wiki/Cron>
-* year: may be `*` for any year, or a year or a year range, like `2012-2016`
-* weeks: an interval indicator, formatted `%i=r` with `i` being the week rhythm
-  (1 for each week, 2 for every second week etc.) and `r` the remainder (first
-  week of the year the show was broadcasted, with ISO week number (like in
-  bash: `date +%V`))
-* min: duration of the broadcast in minutes
-* name: official broadcast name in double quotes
-* tags: [a-z]+, comma separated, no spaces (there should not be more than five
-  tags per broadcast)
-* url: broadcast website, e. g. for playlist infos (optional)
+
+#### cron
+
+* generally, see <http://en.wikipedia.org/wiki/Cron>
+
+#### year
+
+* may be `*` for any year, or a year or a year range, like `2012-2016`
+
+#### weeks
+
+* either weeks of month (wom) or weeks of year (woy)
+* clients are to detect wom vs. woy automatically
+
+weeks of month (wom):
+
+* for a rhythm restarting every month, e. g. every 2nd TUE of a month
+* formats: single number, comma separated, range
+* example: `2,4` (every 2nd and 4th weeks of a month)
+
+weeks of year (woy):
+
+* for a fluent rhythm, no matter which week of month
+* format: `%i=r` with
+    * `i`: week rhythm (1 for each week, 2 for every second week etc.)
+    * `r`: remainder (of ISO week number modulus interval)
+* note: ISO week number in bash: `date +%V`
+
+#### min
+
+* duration of the broadcast in minutes
+
+#### name
+
+* official broadcast name in double quotes
+
+#### tags
+
+* [a-z]+, comma separated, no spaces
+* there should not be more than seven tags per broadcast
+
+#### url
+
+* broadcast website, e. g. for playlist infos (optional)
+
+
+
+
+
 
 Entries shall be sorted by those columns: `station`, `dow` (MON .. SUN), `h`, `m`, `weeks`.
 
