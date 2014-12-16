@@ -4,5 +4,6 @@
 # station   name                        URL (comment via #)
 bbc1xtra    "BBC Radio 1Xtra"           http://www.bbc.co.uk/radio/listen/live/r1x_aaclca.pls
 ckut        "CKUT"                      http://stream.ckut.ca:8000/903fm-192-stereo # http://stream.ckut.ca:8000/903fm-192-stereo.m3u (http://ckut.ca/c/en/node/49 #montreal #gmt-5 #+6hours) **http://ckut.ca/archives.php**
+wnyc        "WNYC 93.9 FM"              http://www.wnyc.org/stream/wnyc-fm939/mp3.pls #newyork #publicradio
 
 # vim: et ft=config
