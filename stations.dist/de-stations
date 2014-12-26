@@ -10,8 +10,8 @@ figaro      "MDR Figaro"                http://c22033-l.i.core.cdn.streamfarm.ne
 fm4         "FM4"                       http://mp3stream1.apasf.apa.at:8000/ # http://mp3stream1.apasf.apa.at:8000/listen.pls
 mephisto976 "mephisto 97.6"             http://139.18.27.192:8000/mephisto976_livestream.ogg.m3u # | http://139.18.27.192:8000/mephisto976_livestream.mp3.m3u
 radioeins   "radioeins"                 http://www.radioeins.de/live.m3u
-radiox      "radio x"                   http://www.radiox.de/media/radiox.m3u #frankfurt #freiesradio #100kbs #http://www.radiox.de/
-radioz      "Radio Z"                   http://snd.radio-z.net:8000/Radio-Z # freies Radio Nürnberg
+radiox      "radio x"                   http://www.radiox.de/media/radiox.m3u #frankfurt #freiesradio #kbs:100 #http://www.radiox.de/
+radioz      "Radio Z"                   http://snd.radio-z.net:8000/Radio-Z # freies Radio Nürnberg #kbs:192
 rbbkultur   "rbb kulturradio"           http://kulturradio.de/live.m3u
 srf2        "Radio SRF 2 Kultur"        http://stream.srg-ssr.ch/drs2/mp3_128.m3u
 swr2        "SWR2"                      http://mp3-live.swr.de/swr2_m.m3u

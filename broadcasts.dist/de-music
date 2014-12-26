@@ -86,14 +86,22 @@ mephisto976 test                *   *   *   *   *   *       %1=0    1   "Test"  
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
 # .................................................................................................................................................................................
+radiox      jazz918             00  21  *   *   WED *       1       120 "Jazz 91.8"                         jazz                                    http://www.radiox.de/sendungen/jazz-918.html
+radiox      jazz918             00  21  *   *   WED *       3        60 "Jazz 91.8"                         jazz                                    http://www.radiox.de/sendungen/jazz-918.html
+radiox      soulsearching       00  21  *   *   THU *       %1=0    120 "soulsearching"                     soul,jazz,funk,hiphop                   http://www.radiox.de/sendungen/soulsearching.html
 radiox      ruffm               00  19  *   *   SAT *       %1=0     60 "RuFFM"                             drumandbass                             http://ruffm.com/
-# http://www.radio-z.net/en/programmkalender/redaktionsuebersicht.html
+radiox      venuslounge         00  21  *   *   SAT *       1       120 "Venus Lounge"                      music                                   http://www.radiox.de/sendungen/venus-lounge.html
+radiox      indianvibes         00  12  *   *   SUN *       4       120 "Indian Vibes"                      indian,panjabi,tabla                    http://www.radiox.de/sendungen/indian-vibes.html
+# http://www.radiox.de/sendungen.html
+# http://www.radiox.de/media/scripts/woche/woche_show_week.php
+# http://www.radiox.de/playlists.html
 # }}}
 # {{{ (( Radio Z ))
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
 # .................................................................................................................................................................................
-#radioz      corazondetango      *   *   *   *   *   *       %1=0    1   "Test"
+radioz      corazondetango      00  19  *   *   TUE *       2,4      60 "Corazón de Tango"                  tango                                   http://corazon-de-tango.radio-z.net/de/
+radioz      polnischakzent      00  19  *   *   WED *       4        60 "Die Sendung mit dem polnischen Akzent" music,polish                        http://sendung-polnischen-akzent.radio-z.net/en/
 # http://www.radio-z.net/en/programmkalender/redaktionsuebersicht.html
 # }}}
 

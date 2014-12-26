@@ -1,0 +1,22 @@
+# de-words
+#
+# global list of word radio shows presented in german /
+# Liste deutschsprachig moderierter Wortbeitragsendungen im Radio
+#
+# weitere Sendungen und Maintainer für diese Datei(en) sind willkommen
+#
+# **please see README.md for further infos on how to use those files and contribute**
+
+# {{{ (( radio x ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+radiox      maerchenoase        00  12  *   *   MON *       3        60 "Märchenoase"                       fairytales,german                       http://www.radiox.de/sendungen/maerchenoase.html
+radiox      radieschen          00  12  *   *   MON *       4        60 "Radio Radieschen"                  radioplay,fun                           http://www.radiox.de/sendungen/radio-radieschen.html
+radiox      offwego             00  20  *   *   TUE *       4        60 "Off we go!"                        travel,underrated                       http://www.radiox.de/sendungen/off-we-go.html
+# http://www.radiox.de/sendungen.html
+# http://www.radiox.de/media/scripts/woche/woche_show_week.php
+# http://www.radiox.de/playlists.html
+# }}}
+
+# vim: fdm=marker fdl=0 et ft=config
