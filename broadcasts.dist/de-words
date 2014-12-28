@@ -7,6 +7,14 @@
 #
 # **please see README.md for further infos on how to use those files and contribute**
 
+# {{{ (( Radio Blau ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+radioblau   aboutradio          00  16  *   *   SAT *       %4=2     60 "about:radio"                       chaosradio,ccc,hackerspaces,leipzig     http://aboutradio.org/
+# http://radioblau.de/index.php?z=bl3
+# https://www.facebook.com/radioblau
+# }}}
 # {{{ (( radio x ))
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url

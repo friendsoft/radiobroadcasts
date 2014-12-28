@@ -9,6 +9,7 @@ dlf         "Deutschlandfunk"           http://stream.dradio.de/7/249/142684/v1/
 figaro      "MDR Figaro"                http://c22033-l.i.core.cdn.streamfarm.net/22007mdrfigaro/live/3087mdr_figaro/live_de_128.mp3
 fm4         "FM4"                       http://mp3stream1.apasf.apa.at:8000/ # http://mp3stream1.apasf.apa.at:8000/listen.pls
 mephisto976 "mephisto 97.6"             http://139.18.27.192:8000/mephisto976_livestream.ogg.m3u # | http://139.18.27.192:8000/mephisto976_livestream.mp3.m3u
+radioblau   "Radio Blau"                http://stream.radioblau.de #freiesradio #leipzig #kbs:192 #http://radioblau.de/ #https://www.facebook.com/radioblau (with daily details)
 radioeins   "radioeins"                 http://www.radioeins.de/live.m3u
 radiox      "radio x"                   http://www.radiox.de/media/radiox.m3u #frankfurt #freiesradio #kbs:100 #http://www.radiox.de/
 radioz      "Radio Z"                   http://snd.radio-z.net:8000/Radio-Z # freies Radio Nürnberg #kbs:192

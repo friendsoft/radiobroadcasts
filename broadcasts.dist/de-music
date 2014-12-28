@@ -82,6 +82,19 @@ mephisto976 test                *   *   *   *   *   *       %1=0    1   "Test"  
 #http://mephisto976.de/sendung/m19
 # http://mephisto976.de/sendungen/
 # }}}
+# {{{ (( Radio Blau ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+radioblau   extrablau           00  20  *   *   MON *       %2=1     60 "Extrablau"                         newreleases,special,concerts,leipzig    http://extrablau.blogspot.de/
+radioblau   nokogiribiki        00  21  *   *   MON *       %4=2    120 "Nokogiribiki"                      special                                 http://nokogiribiki.tumblr.com/
+radioblau   itsyours            00  21  *   *   WED *       %2=1    120 "It's Yours Radioshow"              drumandbass,hiphop,electronic,leipzig   http://www.itsyours.info/?s=radio&submit=Suchen
+radioblau   png                 00  21  *   *   FRI *       %2=0    120 "Persona Non Grata"                 special                                 http://www.persona-non-grata.de/ressorts/radio/
+radioblau   dubnight            00  21  *   *   FRI *       %2=1    120 "Dubnight Radioshow"                dub,dubstep,jungle,drumandbass          http://dubnight.de/#!/radioshow/
+radioblau   puravidasounds      00  13  *   *   SUN *       %4=1     60 "Pura Vida Sounds"                  special,eras,countries                  http://www.puravida.at/
+# http://radioblau.de/index.php?z=bl3
+# https://www.facebook.com/radioblau
+# }}}
 # {{{ (( radio x ))
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
