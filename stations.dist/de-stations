@@ -13,6 +13,7 @@ radioblau   "Radio Blau"                http://stream.radioblau.de #freiesradio 
 radioeins   "radioeins"                 http://www.radioeins.de/live.m3u
 radiox      "radio x"                   http://www.radiox.de/media/radiox.m3u #frankfurt #freiesradio #kbs:100 #http://www.radiox.de/
 radioz      "Radio Z"                   http://snd.radio-z.net:8000/Radio-Z # freies Radio Nürnberg #kbs:192
+rebootfm    "reboot.fm"                 http://panel.klubradio.de/tunein.php/rebootfm/tunein.pls #berlin #art #experimental #kbs:192
 rbbkultur   "rbb kulturradio"           http://kulturradio.de/live.m3u
 srf2        "Radio SRF 2 Kultur"        http://stream.srg-ssr.ch/drs2/mp3_128.m3u
 swr2        "SWR2"                      http://mp3-live.swr.de/swr2_m.m3u
