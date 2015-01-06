@@ -11,10 +11,14 @@ fm4         "FM4"                       http://mp3stream1.apasf.apa.at:8000/ # h
 mephisto976 "mephisto 97.6"             http://139.18.27.192:8000/mephisto976_livestream.ogg.m3u # | http://139.18.27.192:8000/mephisto976_livestream.mp3.m3u
 radioblau   "Radio Blau"                http://stream.radioblau.de #freiesradio #leipzig #kbs:192 #http://radioblau.de/ #https://www.facebook.com/radioblau (with daily details)
 radioeins   "radioeins"                 http://www.radioeins.de/live.m3u
+radiofrei   "Radio F.R.E.I"             http://streaming.fueralle.org:8000/Radio-F.R.E.I.m3u #freiesradio #erfurt #kbs:128 #http://www.radio-frei.de/
+radiookj    "radio okj"                 http://www.radio-okj.de/stream/livestream_radio_okj.m3u #freiesradio #jena #kbs:128 #http://www.radio-okj.de/
+radiot      "Radio T"                   http://streaming.fueralle.org:8000/radiot.ogg #freiesradio #chemnitz #ogg
 radiox      "radio x"                   http://www.radiox.de/media/radiox.m3u #frankfurt #freiesradio #kbs:100 #http://www.radiox.de/
-radioz      "Radio Z"                   http://snd.radio-z.net:8000/Radio-Z # freies Radio Nürnberg #kbs:192
+radioz      "Radio Z"                   http://snd.radio-z.net:8000/Radio-Z #freiesradio #nürnberg #kbs:192
 rebootfm    "reboot.fm"                 http://panel.klubradio.de/tunein.php/rebootfm/tunein.pls #berlin #art #experimental #kbs:192
 rbbkultur   "rbb kulturradio"           http://kulturradio.de/live.m3u
+rdl         "Radio Dreyeckland"         http://www.rdl.de:8000/rdl.m3u #freiesradio #freiburg #kbs:128 #https://rdl.de/
 srf2        "Radio SRF 2 Kultur"        http://stream.srg-ssr.ch/drs2/mp3_128.m3u
 swr2        "SWR2"                      http://mp3-live.swr.de/swr2_m.m3u
 wdr3        "WDR 3"                     http://www.wdr.de/wdrlive/media/wdr3.m3u

@@ -15,6 +15,22 @@ radioblau   aboutradio          00  16  *   *   SAT *       %4=2     60 "about:r
 # http://radioblau.de/index.php?z=bl3
 # https://www.facebook.com/radioblau
 # }}}
+# {{{ (( Radio Dreyeckland ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+rdl         radioech            00  19  *   *   THU *       %1=0     30 "Radio Ech"                         russland                                https://rdl.de/sendung/radio-ech-deutsch
+# https://rdl.de/programm/woche
+# https://rdl.de/sendungen/
+# }}}
+# {{{ (( Radio F.R.E.I. ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+radiofrei   rumpumpel           30  08  *   *   SUN *       %1=0     30 "Rumpumpel"                         kinder,years:2–6                        http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung_gruppe&kgruppe_id=26
+# http://www.radio-frei.de/index.php?iid=1.1
+# http://www.radio-frei.de/index.php?iid=playlisten (but meta data for each broadcast available only via ~ <http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung&kunixtime=1418850000>)
+# }}}
 # {{{ (( radio x ))
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url

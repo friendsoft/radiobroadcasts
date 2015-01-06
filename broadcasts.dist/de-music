@@ -95,6 +95,43 @@ radioblau   puravidasounds      00  13  *   *   SUN *       %4=1     60 "Pura Vi
 # http://radioblau.de/index.php?z=bl3
 # https://www.facebook.com/radioblau
 # }}}
+# {{{ (( Radio Dreyeckland ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+rdl         dubkaliroots        30  22  *   *   MON *       %2=1     90 "Dub Kali Roots"                    dub                                     https://rdl.de/sendung/dub-kali-rootz
+rdl         sountastic          00  20  *   *   FRI *       %4=2     60 "Sountastic"                        hiphop,electro,breakbeats               https://rdl.de/sendung/sountastic
+rdl         franticfreak        00  21  *   *   FRI *       %2=0     90 "Frantic Freakshow"                 indie,mixed                             https://rdl.de/sendung/frantic-freakshow
+rdl         solidpleasure       30  22  *   *   FRI *       %2=0    120 "Solid Pleasure"                    indie,mixed                             http://www.solidpleasure.de/
+rdl         jazznews            00  10  *   *   SAT *       %1=0     60 "Jazz News"                         jazz                                    https://rdl.de/sendung/jazz-news
+# https://rdl.de/programm/woche
+# https://rdl.de/sendungen/
+# }}}
+# {{{ (( Radio F.R.E.I. ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+radiofrei   milestones          00  22  *   *   MON *       %2=0    120 "Milestones"                        progrock,psychrock,jazzrock,60s,70s     http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung_gruppe&kgruppe_id=10
+radiofrei   freijazz            00  22  *   *   WED *       %2=1    120 "F.R.E.I.– Jazz"                    jazz,freejazz                           http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung_gruppe&kgruppe_id=65
+# http://www.radio-frei.de/index.php?iid=1.1
+# http://www.radio-frei.de/index.php?iid=playlisten (but meta data for each broadcast available only via ~ <http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung&kunixtime=1418850000>)
+# }}}
+# {{{ (( Radio T ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+#radiot      bluemonday          00  21  *   *   MON *       1,3      60 "Blue Monday"                       indie,rock                              http://www.zinsik.de/bluemonday/Programm.html
+#radiot      dubwise             00  21  *   *   WED *       1,3      60 "Dubwise"                           dub
+#radiot      johnpeel            00  23  *   *   SUN *       1        60 "John Peel"                         indie,special                           http://www.2013.radiot-chemnitz.de/unser-programm/
+# http://www.2013.radiot-chemnitz.de/unser-programm/
+# }}}
+# {{{ (( radio okj ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+radiookj    fonia               00  20  *   *   FRI *       1       120 "Fonia Radio Show"                  jazz,house,soul,breaks,glitch           http://fonia.fm/
+# http://www.radio-okj.de/sender/sendungen.php
+# }}}
 # {{{ (( radio x ))
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
