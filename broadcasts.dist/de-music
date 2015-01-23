@@ -51,6 +51,7 @@ bytefm      bttb                00  21  *   *   THU *       %1=0     60 "BTTB �
 bytefm      schnittstellen      00  22  *   *   THU *       %2=1     60 "Schnittstellen"                    rock,jazz,electronic                    http://byte.fm/sendung/schnittstellen/
 bytefm      kramladen           00  23  *   *   THU *       %2=1     60 "Kramladen"                         rock,60s,70s,special                    http://byte.fm/sendung/kramladen/
 bytefm      neuland             00  13  *   *   FRI *       %1=0    120 "Neuland"                           newreleases                             http://byte.fm/sendung/neuland/
+bytefm      tazmixtape          03  17  *   *   FRI *       %1=0     60 "taz.mixtape"                       newreleases,pop                         http://byte.fm/sendung/tazmixtape/
 bytefm      poptwist            00  18  *   *   FRI *       %2=0     60 "Poptwist"                          electronic,remix,mashup,synth           http://byte.fm/sendung/poptwist/
 bytefm      champagnesupernova  00  18  *   *   FRI *       %2=1     60 "Champagne Supernova"               indie,uk,70s,80s                        http://byte.fm/sendung/champagne-supernova/
 bytefm      regler              00  20  *   *   FRI *       %2=1     60 "Regler rauf, Regler runter"        electronic,indie,pop,special            http://byte.fm/sendung/regler-rauf-regler-runter/
@@ -67,7 +68,7 @@ bytefm      ufohawaii           00  23  *   *   SAT *       %4=1     60 "UFO Haw
 bytefm      bytefmklassik       03  12  *   *   SUN *       %2=0     57 "ByteFM Klassik"                    classic,pop,avant                       http://byte.fm/sendung/bytefm-klassik/
 bytefm      zimmer436           00  14  *   *   SUN *       %1=0     60 "Zimmer 436"                        mixed                                   http://byte.fm/sendung/zimmer-4-36/
 bytefm      dierundestunde      03  17  *   *   SUN *       %4=0     57 "Die runde Stunde"                  jazz,hiphop,soul,chanson                http://byte.fm/sendung/die-runde-stunde/
-bytefm      wasistmusik         00  19  *   *   SUN *       %1=0     60 "Was ist Musik"                     special                                 http://byte.fm/sendung/was-ist-musik/
+bytefm      wasistmusik         03  19  *   *   SUN *       %1=0     57 "Was ist Musik"                     special                                 http://byte.fm/sendung/was-ist-musik/
 bytefm      duftorgel           00  22  *   *   SUN *       %4=1     60 "Duftorgel"                         bass,techno                             http://byte.fm/sendung/duftorgel/
 bytefm      taxinights          00  23  *   *   SUN *       %4=3     60 "Taxi Nights"                       deephouse,techno,hiphop,funk,disco      http://byte.fm/sendung/taxi-nights/
 # .................................................................................................................................................................................
@@ -111,8 +112,9 @@ rdl         jazznews            00  10  *   *   SAT *       %1=0     60 "Jazz Ne
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
 # .................................................................................................................................................................................
-radiofrei   milestones          00  22  *   *   MON *       %2=0    120 "Milestones"                        progrock,psychrock,jazzrock,60s,70s     http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung_gruppe&kgruppe_id=10
-radiofrei   freijazz            00  22  *   *   WED *       %2=1    120 "F.R.E.I.– Jazz"                    jazz,freejazz                           http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung_gruppe&kgruppe_id=65
+radiofrei   milestones          00  22  *   *   MON *       %2=0    180 "Milestones"                        progrock,psychrock,jazzrock,60s,70s     http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung_gruppe&kgruppe_id=10
+# http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung_gruppe&kgruppe_id=65
+radiofrei   freijazz            00  22  *   *   WED *       %2=1    180 "F.R.E.I.– Jazz"                    jazz,freejazz                           http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung_gruppe&kgruppe_id=65
 # http://www.radio-frei.de/index.php?iid=1.1
 # http://www.radio-frei.de/index.php?iid=playlisten (but meta data for each broadcast available only via ~ <http://www.radio-frei.de/index.php?iid=1&ksubmit_show=sendung&kunixtime=1418850000>)
 # }}}
