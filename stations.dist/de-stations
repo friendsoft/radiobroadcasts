@@ -4,10 +4,12 @@
 
 # station   name                        URL (comment via #)
 bytefm      "ByteFM"                    http://streamingserver01.byte.fm:8000/ # http://www.byte.fm/stream/bytefm.m3u
+coloradio   "colorRadio"                http://streaming.fueralle.org:8000/coloradio_160.mp3 #freiesradio #dresden #http://hub.fueralle.org/coloradio160mp3.m3u
 dkultur     "Deutschlandradio Kultur"   http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m # http://www.deutschlandradio.de/streaming/dkultur.m3u
 dlf         "Deutschlandfunk"           http://stream.dradio.de/7/249/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dlf_m # http://www.deutschlandradio.de/streaming/dlf.m3u
 figaro      "MDR Figaro"                http://c22033-l.i.core.cdn.streamfarm.net/22007mdrfigaro/live/3087mdr_figaro/live_de_128.mp3
 fm4         "FM4"                       http://mp3stream1.apasf.apa.at:8000/ # http://mp3stream1.apasf.apa.at:8000/listen.pls
+frkassel    "Freies Radio Kassel"       http://login.streamplus.de/player.php?spt=13331.m3u #freiesradio #kassel #kbs:128
 mephisto976 "mephisto 97.6"             http://139.18.27.192:8000/mephisto976_livestream.ogg.m3u # | http://139.18.27.192:8000/mephisto976_livestream.mp3.m3u
 radioblau   "Radio Blau"                http://stream.radioblau.de #freiesradio #leipzig #kbs:192 #http://radioblau.de/ #https://www.facebook.com/radioblau (with daily details)
 radioeins   "radioeins"                 http://www.radioeins.de/live.m3u
