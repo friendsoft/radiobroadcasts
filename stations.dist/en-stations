@@ -4,6 +4,8 @@
 # station   name                        URL (comment via #)
 bbc1xtra    "BBC Radio 1Xtra"           http://www.bbc.co.uk/radio/listen/live/r1x_aaclca.pls
 ckut        "CKUT"                      http://stream.ckut.ca:8000/903fm-192-stereo # http://stream.ckut.ca:8000/903fm-192-stereo.m3u (http://ckut.ca/c/en/node/49 #montreal #gmt-5 #+6hours) **http://ckut.ca/archives.php**
+koolfm      "Kool FM"                   http://uk1-pn.mixstream.net/8698.m3u #drumandbass #london #pirateradio #http://koollondon.com/index.php/timetable
+rudefm      "Rude FM"                   http://78.129.228.187:8034 #drumandbass #london #pirateradio #http://78.129.228.187:8034/listen.pls #http://www.rudefm.com/site/timetable/
 wnyc        "WNYC 93.9 FM"              http://www.wnyc.org/stream/wnyc-fm939/mp3.pls #newyork #publicradio
 wnyu        "WNYU"                      http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3 #http://wnyu.org/wnyu128.m3u #newyork #university #kbs:128
 

@@ -16,7 +16,7 @@ radioeins   "radioeins"                 http://www.radioeins.de/live.m3u
 radiofrei   "Radio F.R.E.I"             http://streaming.fueralle.org:8000/Radio-F.R.E.I.m3u #freiesradio #erfurt #kbs:128 #http://www.radio-frei.de/
 radiookj    "radio okj"                 http://www.radio-okj.de/stream/livestream_radio_okj.m3u #freiesradio #jena #kbs:128 #http://www.radio-okj.de/
 radiot      "Radio T"                   http://streaming.fueralle.org:8000/radiot.ogg #freiesradio #chemnitz #ogg
-radiox      "radio x"                   http://www.radiox.de/media/radiox.m3u #frankfurt #freiesradio #kbs:100 #http://www.radiox.de/
+radiox      "radio x"                   http://radiox.istmein.de:8000/live #http://www.radiox.de/media/radiox.m3u #frankfurt #freiesradio #kbs:100 #http://www.radiox.de/
 radioz      "Radio Z"                   http://snd.radio-z.net:8000/Radio-Z #freiesradio #nürnberg #kbs:192
 rebootfm    "reboot.fm"                 http://panel.klubradio.de/tunein.php/rebootfm/tunein.pls #berlin #art #experimental #kbs:192
 rbbkultur   "rbb kulturradio"           http://kulturradio.de/live.m3u
