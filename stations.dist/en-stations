@@ -2,11 +2,14 @@
 # **please see README.md for further infos on how to use those files and contribute**
 
 # station   name                        URL (comment via #)
-bbc1xtra    "BBC Radio 1Xtra"           http://www.bbc.co.uk/radio/listen/live/r1x_aaclca.pls
+bbc1xtra    "BBC Radio 1Xtra"           http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p?s=1469043136&e=1469057536&h=2a9b3a51dd4b16a35ec95d2dcd9946b4 #http://www.radiofeeds.co.uk/bbc1xtra.pls #http://www.radiofeeds.co.uk/query.asp?feedme=BBC
+bbc2        "BBC Radio 2"               http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p?s=1469045843&e=1469060243&h=236a565992a8575c846471a086f8b3a4 #http://www.radiofeeds.co.uk/bbcradio2.pls
+bfbs        "BFBS"                      http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.aac
+bfbsger     "BFBS Germany"              http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs5.aac
 ckut        "CKUT"                      http://stream.ckut.ca:8000/903fm-192-stereo # http://stream.ckut.ca:8000/903fm-192-stereo.m3u (http://ckut.ca/c/en/node/49 #montreal #gmt-5 #+6hours) **http://ckut.ca/archives.php**
-koolfm      "Kool FM"                   http://uk1-pn.mixstream.net/8698.m3u #drumandbass #london #pirateradio #http://koollondon.com/index.php/timetable
+koolfm      "Kool FM"                   http://uk1-pn.webcast-server.net:8698 #http://uk1-pn.mixstream.net/8698.m3u #drumandbass #london #pirateradio #http://koollondon.com/index.php/timetable
 rudefm      "Rude FM"                   http://78.129.228.187:8034 #drumandbass #london #pirateradio #http://78.129.228.187:8034/listen.pls #http://www.rudefm.com/site/timetable/
-wnyc        "WNYC 93.9 FM"              http://www.wnyc.org/stream/wnyc-fm939/mp3.pls #newyork #publicradio
+wnyc        "WNYC 93.9 FM"              http://fm939.wnyc.org/wnycfm #http://www.wnyc.org/stream/wnyc-fm939/mp3.pls #newyork #publicradio
 wnyu        "WNYU"                      http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3 #http://wnyu.org/wnyu128.m3u #newyork #university #kbs:128
 
 # vim: et ft=config

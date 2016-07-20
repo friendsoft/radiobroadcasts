@@ -2,9 +2,12 @@
 # **please see README.md for further infos on how to use those files and contribute**
 
 # station   name                        URL (comment via #)
-aligrefm    "Aligre FM"                 http://sv3.vestaradio.com:9468 # http://aligrefm.org/aligrefm.m3u?download
-finter      "France Inter"              http://mp3.live.tv-radio.com/franceinter/all/franceinterhautdebit.mp3 # http://www.tv-radio.com/station/france_inter_mp3/france_inter_mp3-128k.m3u
-fmusique    "France Musique"            http://mp3.live.tv-radio.com/francemusique/all/francemusiquehautdebit.mp3
-rclille     "Radio Campus Lille"        http://statslive.infomaniak.ch/playlist/radiocampuslille/radiocampuslille-128.mp3/playlist.m3u
+aligrefm    "Aligre FM"                 http://sv3.vestaradio.com:9468 # http://aligrefm.org/aligrefm.m3u?download #paris #communityradio
+fculture    "France Culture"            http://audio.scdn.arkena.com/11010/franceculture-midfi128.mp3
+finfo       "France Info"               http://audio.scdn.arkena.com/11006/franceinfo-midfi128.mp3
+finter      "France Inter"              http://audio.scdn.arkena.com/11008/franceinter-midfi128.mp3 #via:ubuntuusers
+fip         "FIP"                       http://audio.scdn.arkena.com/11016/fip-midfi128.mp3
+fmusique    "France Musique"            http://audio.scdn.arkena.com/11012/francemusique-midfi128.mp3
+rclille     "Radio Campus Lille"        http://radiocampuslille.ice.infomaniak.ch:80/radiocampuslille-128 #lille #campusradio
 
 # vim: et ft=config

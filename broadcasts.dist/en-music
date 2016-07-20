@@ -8,6 +8,22 @@
 #
 # **please see README.md for further infos on how to use those files and contribute**
 
+# {{{  (( BBC 1Xtra ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+bbc1xtra    davidrodigan        00  20  *   *   SUN *       %1=0    120 "David Rodigan"                     reggae,rocksteady,dub,dancehall         http://www.bbc.co.uk/programmes/b01q9qgc
+# .................................................................................................................................................................................
+# http://www.rodigan.com/radio/ (David Rodigan)
+# http://www.bbc.co.uk/1xtra (BBC 1Xtra)
+# }}}
+# {{{  (( BBC Radio 2 ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon     dow year        weeks   min name                                tags                                    url
+bbc2        summerseries        03  23  *   7,8,9   TUE 2015        %1=0     57 "Summer Series of Reggae"           reggae,rocksteady,dub,dancehall         http://www.bbc.co.uk/programmes/b062905p
+# .................................................................................................................................................................................
+# http://www.rodigan.com/radio/ (David Rodigan)
+# http://www.bbc.co.uk/radio2 (BBC Radio 2)
+# }}}
 # {{{  (( CKUT 90.3 FM ))
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url

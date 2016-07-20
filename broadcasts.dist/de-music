@@ -81,7 +81,7 @@ coloradio   heimklang           00  18  *   *   THU *       3,5      60 "HEIMkla
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
 # .................................................................................................................................................................................
-mephisto976 test                *   *   *   *   *   *       %1=0    1   "Test"                              test                                    http://mephisto976.de/sendungen/
+#mephisto976 test                *   *   *   *   *   *       %1=0    1   "Test"                              test                                    http://mephisto976.de/sendungen/
 #http://mephisto976.de/sendung/tonleiter und
 #http://mephisto976.de/sendung/m19
 # http://mephisto976.de/sendungen/
@@ -135,9 +135,9 @@ radiofrei   freijazz            00  22  *   *   WED *       %2=1    180 "F.R.E.I
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
 # .................................................................................................................................................................................
-#radiot      bluemonday          00  21  *   *   MON *       1,3      60 "Blue Monday"                       indie,rock                              http://www.zinsik.de/bluemonday/Programm.html
-#radiot      dubwise             00  21  *   *   WED *       1,3      60 "Dubwise"                           dub
-#radiot      johnpeel            00  23  *   *   SUN *       1        60 "John Peel"                         indie,special                           http://www.2013.radiot-chemnitz.de/unser-programm/
+radiot      bluemonday          00  21  *   *   MON *       1,3      60 "Blue Monday"                       indie,rock                              http://www.zinsik.de/bluemonday/Programm.html
+radiot      dubwise             00  21  *   *   WED *       1,3      60 "Dubwise"                           dub
+radiot      johnpeel            00  23  *   *   SUN *       1        60 "John Peel"                         indie,special                           http://www.2013.radiot-chemnitz.de/unser-programm/
 # http://www.2013.radiot-chemnitz.de/unser-programm/
 # }}}
 # {{{ (( radio okj ))
@@ -154,7 +154,6 @@ radiookj    fonia               00  20  *   *   FRI *       1       120 "Fonia R
 radiox      jazz918             00  21  *   *   WED *       1       120 "Jazz 91.8"                         jazz                                    http://www.radiox.de/sendungen/jazz-918.html
 radiox      jazz918             00  21  *   *   WED *       3        60 "Jazz 91.8"                         jazz                                    http://www.radiox.de/sendungen/jazz-918.html
 radiox      soulsearching       00  21  *   *   THU *       %1=0    120 "soulsearching"                     soul,jazz,funk,hiphop                   http://www.radiox.de/sendungen/soulsearching.html
-#radiox      ruffm               00  19  *   *   SAT *       %1=0     60 "RuFFM"                             drumandbass                             http://ruffm.com/
 radiox      ruffm               00  19  *   *   SAT *       %1=0     60 "RuFFM"                             drumandbass                             http://ruffm.com/
 radiox      venuslounge         00  21  *   *   SAT *       1       120 "Venus Lounge"                      music                                   http://www.radiox.de/sendungen/venus-lounge.html
 radiox      indianvibes         00  12  *   *   SUN *       4       120 "Indian Vibes"                      indian,panjabi,tabla                    http://www.radiox.de/sendungen/indian-vibes.html
@@ -169,6 +168,13 @@ radiox      indianvibes         00  12  *   *   SUN *       4       120 "Indian 
 radioz      corazondetango      00  19  *   *   TUE *       2,4      60 "Corazón de Tango"                  tango                                   http://corazon-de-tango.radio-z.net/de/
 radioz      polnischakzent      00  19  *   *   WED *       4        60 "Die Sendung mit dem polnischen Akzent" music,polish                        http://sendung-polnischen-akzent.radio-z.net/en/
 # http://www.radio-z.net/en/programmkalender/redaktionsuebersicht.html
+# }}}
+# {{{ (( TechnoBase.FM ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+technobase  limitededition      00  22  *   *   SUN *       %1=0    120 "Limited Edition"                   handsup,dance,trance                    https://www.overseamusic.de/limited-edition
+# http://www.technobase.fm/showplan/
 # }}}
 
 # vim: fdm=marker fdl=0 et ft=config

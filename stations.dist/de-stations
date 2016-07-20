@@ -3,26 +3,28 @@
 # see <http://wiki.ubuntuusers.de/Internetradio/Stationen> for many more stations
 
 # station   name                        URL (comment via #)
+88vier      "88vier"                    http://ice.rosebud-media.de:8000/88vier #http://ice.rosebud-media.de:8000/88vier.m3u #berlin #blnfm #piradio #alexradio #bytefmberlin #ohrfunk #reboofm #http://87.118.122.220:8002/stream
 bytefm      "ByteFM"                    http://streamingserver01.byte.fm:8000/ # http://www.byte.fm/stream/bytefm.m3u
 coloradio   "colorRadio"                http://streaming.fueralle.org:8000/coloradio_160.mp3 #freiesradio #dresden #http://hub.fueralle.org/coloradio160mp3.m3u
-dkultur     "Deutschlandradio Kultur"   http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m # http://www.deutschlandradio.de/streaming/dkultur.m3u
-dlf         "Deutschlandfunk"           http://stream.dradio.de/7/249/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dlf_m # http://www.deutschlandradio.de/streaming/dlf.m3u
-figaro      "MDR Figaro"                http://c22033-l.i.core.cdn.streamfarm.net/22007mdrfigaro/live/3087mdr_figaro/live_de_128.mp3
+dkultur     "Deutschlandradio Kultur"   http://dradio-ogg-dkultur-l.akacast.akamaistream.net/7/978/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dkultur_l #http://www.dradio.de/streaming/dradio_ogg.pls # http://www.deutschlandradio.de/streaming/dkultur.m3u
+dlf         "Deutschlandfunk"           http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l #http://www.dradio.de/streaming/dradio_ogg.pls
+figaro      "MDR Kultur"                http://c22033-l.i.core.cdn.streamfarm.net/22007mdrfigaro/live/3087mdr_figaro/live_de_128.mp3 #figaro
 fm4         "FM4"                       http://mp3stream1.apasf.apa.at:8000/ # http://mp3stream1.apasf.apa.at:8000/listen.pls
-frkassel    "Freies Radio Kassel"       http://login.streamplus.de/player.php?spt=13331.m3u #freiesradio #kassel #kbs:128
-mephisto976 "mephisto 97.6"             http://139.18.27.192:8000/mephisto976_livestream.ogg.m3u # | http://139.18.27.192:8000/mephisto976_livestream.mp3.m3u
-radioblau   "Radio Blau"                http://stream.radioblau.de #freiesradio #leipzig #kbs:192 #http://radioblau.de/ #https://www.facebook.com/radioblau (with daily details)
-radioeins   "radioeins"                 http://www.radioeins.de/live.m3u
-radiofrei   "Radio F.R.E.I"             http://streaming.fueralle.org:8000/Radio-F.R.E.I.m3u #freiesradio #erfurt #kbs:128 #http://www.radio-frei.de/
-radiookj    "radio okj"                 http://www.radio-okj.de/stream/livestream_radio_okj.m3u #freiesradio #jena #kbs:128 #http://www.radio-okj.de/
+frkassel    "Freies Radio Kassel"       http://85.214.67.121:8000 #http://www.freies-radio-kassel.de/stream/FRKStream2.m3u #freiesradio #kassel #kbs:128
+mephisto976 "mephisto 97.6"             http://139.18.27.192:8000/mephisto976_livestream.ogg #http://139.18.27.192:8000/mephisto976_livestream.ogg.m3u # | http://139.18.27.192:8000/mephisto976_livestream.mp3.m3u #leipzig #campusradio
+radioblau   "Radio Blau"                http://radioblau.hoerradar.de/radioblau #http://stream.radioblau.de #freiesradio #leipzig #kbs:192 #http://radioblau.de/ #https://www.facebook.com/radioblau (with daily details)
+radioeins   "radioeins"                 http://rbb-mp3-radioeins-m.akacast.akamaistream.net/7/854/292097/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioeins_m #http://www.radioeins.de/live.m3u #brandenburg #berlin
+radiofrei   "Radio F.R.E.I"             http://streaming.fueralle.org:8000/Radio-F.R.E.I #http://streaming.fueralle.org:8000/Radio-F.R.E.I.m3u #freiesradio #erfurt #kbs:128 #http://www.radio-frei.de/
+radiookj    "radio okj"                 http://tbradio.de:80/okj #http://radio-okj.de/wp-content/themes/radiookj/library/livestream_radio_okj.m3u #freiesradio #jena #kbs:128 #http://www.radio-okj.de/
 radiot      "Radio T"                   http://streaming.fueralle.org:8000/radiot.ogg #freiesradio #chemnitz #ogg
 radiox      "radio x"                   http://radiox.istmein.de:8000/live #http://www.radiox.de/media/radiox.m3u #frankfurt #freiesradio #kbs:100 #http://www.radiox.de/
 radioz      "Radio Z"                   http://snd.radio-z.net:8000/Radio-Z #freiesradio #nürnberg #kbs:192
-rebootfm    "reboot.fm"                 http://panel.klubradio.de/tunein.php/rebootfm/tunein.pls #berlin #art #experimental #kbs:192
-rbbkultur   "rbb kulturradio"           http://kulturradio.de/live.m3u
-rdl         "Radio Dreyeckland"         http://www.rdl.de:8000/rdl.m3u #freiesradio #freiburg #kbs:128 #https://rdl.de/
-srf2        "Radio SRF 2 Kultur"        http://stream.srg-ssr.ch/drs2/mp3_128.m3u
-swr2        "SWR2"                      http://mp3-live.swr.de/swr2_m.m3u
-wdr3        "WDR 3"                     http://www.wdr.de/wdrlive/media/wdr3.m3u
+rbbkultur   "rbb kulturradio"           http://rbb-mp3-kulturradio-m.akacast.akamaistream.net/7/935/292095/v1/gnl.akacast.akamaistream.net/rbb_mp3_kulturradio_m #http://kulturradio.de/live.m3u #brandenburg #berlin
+rdl         "Radio Dreyeckland"         http://www.rdl.de:8000/rdl #http://www.rdl.de:8000/rdl.m3u #freiesradio #freiburg #kbs:128 #https://rdl.de/
+rebootfm    "reboot.fm"                 http://87.118.122.220:8002/stream #http://panel.klubradio.de/tunein.php/rebootfm/tunein.pls #berlin #art #experimental #kbs:192 #streamripper:ok #wget:vlc:fail #wget:mplayer:ok
+srf2        "Radio SRF 2 Kultur"        http://stream.srg-ssr.ch/m/drs2/mp3_128 #http://stream.srg-ssr.ch/drs2/mp3_128.m3u #schweiz #kultur
+swr2        "SWR2"                      http://swr-mp3-m-swr2.akacast.akamaistream.net/7/721/137135/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr2 #http://mp3-live.swr.de/swr2_m.m3u
+technobase  "TechnoBase.FM"             http://listen.technobase.fm/tunein-mp3-pls #http://listen.technobase.fm/
+wdr3        "WDR 3"                     http://wdr-3.akacast.akamaistream.net/7/47/119437/v1/gnl.akacast.akamaistream.net/wdr-3 #http://www.wdr.de/wdrlive/media/wdr3.m3u
 
 # vim: et ft=config
