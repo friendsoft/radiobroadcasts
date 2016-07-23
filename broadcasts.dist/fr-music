@@ -11,9 +11,7 @@
 # {{{ (( Aligre FM ))
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                    tags                    url
-aligrefm    planetclaire        30  19  *   1-7 WED 2014    %1=0     60 "Planet Claire"         indie,rock,french       http://www.planet-claire.org/
 aligrefm    lusitania           00  18  *   *   SAT *       %1=0     60 "Lusitania"             lusophone,french        http://aligrefm.org/programmes/les-emissions/lusitania/
-aligrefm    juicytown           00  20  *   *   SAT *       %1=0     60 "Juicy Town"            electronic,french       http://aligrefm.org/programmes/les-emissions/juicy-town/
 # .................................................................................................................................................................................
 # http://aligrefm.org/programmes/les-emissions/
 # }}}
