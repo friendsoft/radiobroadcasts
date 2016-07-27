@@ -13,7 +13,7 @@
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
 bassdrive   berlinbass          00  20  *   *   TUE *       %1=0    120 "Berlin Bass Radioshow"             drumandbass,berlin                      http://djsoulsurfer.tumblr.com/
 bassdrive   sydneysoul          00  08  *   *   MON *       %1=0     60 "Sydney Soul Radio"                 drumandbass,liquid,soulful,jazzy,sydney https://hearthis.at/soulofsydney
-bassdrive   jazzsticks          00  18  *   *   SUN *       %1=0    120 "The Jazzsticks Show"               drumandbass,jazzy,soulful,liquid,vienna https://soundcloud.com/jazzsticks
+bassdrive   jazzsticks          00  18  *   *   SUN *       %1=0    120 "The Jazzsticks Show"               drumandbass,jazzy,soulful,liquid,vienna http://www.bassdrive.com/radio/the-jazzsticks-show
 bassdrive   deepsoul            00  18  *   *   FRI *       %1=0    120 "Deep Soul Sessions"                drumandbass,soulful,deep,liquid,uk      http://www.bassdrive.com/radio/deep-soul-sessions
 bassdrive   atmospherical       00  04  *   *   WED *       %1=0    120 "Atmospheric Allignments"           drumandbass,atmospheric,dark,us         http://www.bassdrive.com/radio/atmospheric-alignments
 bassdrive   northerngroove      00  19  *   *   WED *       %1=0    120 "The Northern Groove"               drumandbass,deep,soulful,manchester     http://www.bassdrive.com/radio/the-northern-groove

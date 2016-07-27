@@ -15,6 +15,14 @@ radioblau   aboutradio          00  16  *   *   SAT *       %4=2     60 "about:r
 # http://radioblau.de/index.php?z=bl3
 # https://www.facebook.com/radioblau
 # }}}
+# {{{ (( Deutschlandradio Kultur ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+# .................................................................................................................................................................................
+dkultur     kakaduf             30  07  *   *   SUN *       %1=0     30 "Kakadu für Frühaufsteher"          kinder,erzähltag                        http://www.kakadu.de/
+dkultur     kakadu              05  08  *   *   SUN *       %1=0     55 "Kakadu"                            kinder,hörspiel,feature                 http://www.kakadu.de/
+# http://www.deutschlandradiokultur.de/sendungen-a-z.351.de.html
+# }}}
 # {{{ (( Radio Dreyeckland ))
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url

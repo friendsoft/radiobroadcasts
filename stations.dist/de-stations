@@ -8,10 +8,11 @@ bytefm      "ByteFM"                    http://streamingserver01.byte.fm:8000/ #
 coloradio   "colorRadio"                http://streaming.fueralle.org:8000/coloradio_160.mp3 #freiesradio #dresden #http://hub.fueralle.org/coloradio160mp3.m3u
 dkultur     "Deutschlandradio Kultur"   http://dradio-ogg-dkultur-l.akacast.akamaistream.net/7/978/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dkultur_l #http://www.dradio.de/streaming/dradio_ogg.pls # http://www.deutschlandradio.de/streaming/dkultur.m3u
 dlf         "Deutschlandfunk"           http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l #http://www.dradio.de/streaming/dradio_ogg.pls
-figaro      "MDR Kultur"                http://c22033-l.i.core.cdn.streamfarm.net/22007mdrfigaro/live/3087mdr_figaro/live_de_128.mp3 #figaro
+mdrkultur   "MDR Kultur"                http://c22033-l.i.core.cdn.streamfarm.net/22007mdrfigaro/live/3087mdr_figaro/live_de_128.mp3 #figaro
 fm4         "FM4"                       http://mp3stream1.apasf.apa.at:8000/ # http://mp3stream1.apasf.apa.at:8000/listen.pls
 frkassel    "Freies Radio Kassel"       http://85.214.67.121:8000 #http://www.freies-radio-kassel.de/stream/FRKStream2.m3u #freiesradio #kassel #kbs:128
 mephisto976 "mephisto 97.6"             http://139.18.27.192:8000/mephisto976_livestream.ogg #http://139.18.27.192:8000/mephisto976_livestream.ogg.m3u # | http://139.18.27.192:8000/mephisto976_livestream.mp3.m3u #leipzig #campusradio
+multicult   "multicult.fm"              http://radiostream.multicult.fm:36525/;stream/1 #http://multicult.fm/live
 radioblau   "Radio Blau"                http://radioblau.hoerradar.de/radioblau #http://stream.radioblau.de #freiesradio #leipzig #kbs:192 #http://radioblau.de/ #https://www.facebook.com/radioblau (with daily details)
 radioeins   "radioeins"                 http://rbb-mp3-radioeins-m.akacast.akamaistream.net/7/854/292097/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioeins_m #http://www.radioeins.de/live.m3u #brandenburg #berlin
 radiofrei   "Radio F.R.E.I"             http://streaming.fueralle.org:8000/Radio-F.R.E.I #http://streaming.fueralle.org:8000/Radio-F.R.E.I.m3u #freiesradio #erfurt #kbs:128 #http://www.radio-frei.de/
