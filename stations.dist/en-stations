@@ -2,6 +2,7 @@
 # **please see README.md for further infos on how to use those files and contribute**
 
 # station   name                        URL (comment via #)
+animenfo    "AnimeNfo Radio"            http://momori.animenfo.com:8000
 bassdrive   "Bassdrive"                 http://shouthost.com.19.streams.bassdrive.com:8200 #http://bassdrive.com/bassdrive.m3u #drumandbass #http://www.bassdrive.com/radio/ #gmt-6  #+7hours
 bbc1xtra    "BBC Radio 1Xtra"           http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p?s=1469043136&e=1469057536&h=2a9b3a51dd4b16a35ec95d2dcd9946b4 #http://www.radiofeeds.co.uk/bbc1xtra.pls #http://www.radiofeeds.co.uk/query.asp?feedme=BBC
 bbc2        "BBC Radio 2"               http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p?s=1469045843&e=1469060243&h=236a565992a8575c846471a086f8b3a4 #http://www.radiofeeds.co.uk/bbcradio2.pls
