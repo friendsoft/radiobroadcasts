@@ -59,6 +59,23 @@ ckut        thesuitedelight     00  07  *   *   TUE *       %1=0     60 "The Sui
 # http://ckut.ca/c/en/oldgrid (programm)
 # http://music.ckut.ca/ (music department)
 # }}}
+# {{{  (( Resonance FM ))
+# .................................................................................................................................................................................
+# station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
+#resonance   testx               00  17  *   *   WED *       %1=0     30 "test"                              feature,sound,places                    
+# .................................................................................................................................................................................
+# no regular (fixed) schedule? 
+# https://www.resonancefm.com/schedule/2016-07-01
+# https://www.resonancefm.com/schedule/2016-07-08
+# https://www.resonancefm.com/schedule/2016-07-15
+# https://www.resonancefm.com/schedule/2016-07-22
+# https://www.resonancefm.com/schedule/2016-07-29
+# https://www.resonancefm.com/schedule/2016-08-05
+# https://www.resonancefm.com/schedule/2016-08-12
+# https://www.resonancefm.com/schedule/2016-08-19
+# https://www.resonancefm.com/schedule/2016-08-26
+
+# }}}
 # {{{  (( WNYC 93.9 FM ))
 # .................................................................................................................................................................................
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
