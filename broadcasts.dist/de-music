@@ -18,7 +18,7 @@ bytefm      champagnesupernova  00  22  *   *   MON *       %4=1     60 "Champag
 bytefm      keepitreal          00  22  *   *   MON *       %4=2     60 "Keep It Real"                      special                                 https://byte.fm/sendungen/keep-it-ral/
 #bytefm      souleilsuite        00  23  *   *   MON *       %4=0     60 "Souleil Suite"                     disco,soul,house                        https://byte.fm/sendungen/souleil-suite/
 bytefm      atmocity            00  23  *   *   MON *       %4=1     60 "Atmocity"                          atmospheric                             https://byte.fm/sendungen/atmocity/
-bytefm      setlist             00  13  *   *   MON *       1        60 "Setlist"                           concerts,announcements                  https://www.byte.fm/sendungen/setlist/
+bytefm      setlist             00  13  *   *   TUE *       1        60 "Setlist"                           concerts,announcements                  https://www.byte.fm/sendungen/setlist/
 #bytefm      einstueckkuchen     00  14  *   *   TUE *       %2=0     60 "Ein Stück Kuchen"                  cake                                    https://byte.fm/sendungen/ein-stueck-kuchen/
 bytefm      onetrackpony        00  14  *   *   TUE *       %2=0     60 "One Track Pony"                    special,associations                    https://byte.fm/sendungen/one-track-pony/
 bytefm      outofspectrum       03  17  *   *   TUE *       %1=0     57 "Out Of Spectrum"                   electronic,jazz                         https://byte.fm/sendungen/out-of-spectrum/
@@ -108,7 +108,7 @@ dlf         jazzfacts           05  21  *   *   THU *       %1=0     55 "JazzFac
 # station   broadcast           m   h   dom mon dow year    weeks   min name                                tags                                    url
 # .................................................................................................................................................................................
 multicult   worldwidemusic      00  09  *   *   WED *       %1=0     60 "World Wide Music"                  music,world,global                      http://multicult.fm/programm/sendungen/worldwidemusic
-multicult   mondofonias         00  22  *   *   SAT *       %1=0    120 "Mundofonías"                       music,world,global,spanish              http://multicult.fm/programm/sendungen/mundofonias
+multicult   mundofonias         03  22  *   *   SAT *       %1=0    118 "Mundofonías"                       music,world,global,spanish              http://multicult.fm/programm/sendungen/mundofonias
 # http://www.mundofonias.com/
 # http://multicult.fm/programm/sendungen
 # http://multicult.fm/programm/uebersicht
