@@ -8,6 +8,6 @@ finfo       "France Info"               http://audio.scdn.arkena.com/11006/franc
 finter      "France Inter"              http://audio.scdn.arkena.com/11008/franceinter-midfi128.mp3 #via:ubuntuusers
 fip         "FIP"                       http://audio.scdn.arkena.com/11016/fip-midfi128.mp3
 fmusique    "France Musique"            http://audio.scdn.arkena.com/11012/francemusique-midfi128.mp3
-rclille     "Radio Campus Lille"        http://radiocampuslille.ice.infomaniak.ch:80/radiocampuslille-128 #lille #campusradio
+rclille     "Radio Campus Lille"        http://radiocampuslille.ice.infomaniak.ch/radiocampuslille-128 #lille #campusradio
 
 # vim: et ft=config
